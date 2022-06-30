@@ -8,6 +8,7 @@ The purpose of the project is to determine the number of retiring employees per 
 ## Results:
 
 ### 1. The list of retiring employees
+
 - The query returns 133,776 rows of data.
 - The table displays a list of employees who are going to retire in the next few years.
 - The list is a start, but we have a few employees who changed positions over the years and their records are showing up twice. 
@@ -41,6 +42,7 @@ The purpose of the project is to determine the number of retiring employees per 
 ![Mentorship Eligibilty](Resources/mentorship_eligibilty.png)
 
 ## Summary:
+
 To sum up it is important to answer the following questions:
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 72,458 roles need to be filled.
@@ -48,14 +50,17 @@ To sum up it is important to answer the following questions:
 No, there are only 1,549 employees eligible to participate in a mentorship program.
 
 ### Additional tables 
+
 #### *Table A*
 - The number of potential retirees grouped by departments.
 - The query returns 9 rows.
 - This table shows how many employees in certain departments will retire in the next few years.
+
 ![Retiring departments](Resources/retiring_departments.png)
 
 #### *Table B*
 - The number of potential retirees grouped by titles in departments.
 - The query returns 42 rows.
 - This table shows how many employees with certain title in certain department will retire in the next few years.
+
 ![Retiring departments by titles](Resources/retiring_title_department.png)
