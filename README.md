@@ -39,7 +39,7 @@ The purpose of the project is to determine the number of retiring employees per 
 - The table holds the current employees who were born between January 1, 1965 and December 31, 1965.
 - The table displays a list of employees who is eligible for the mentorship program.
   
-![Mentorship Eligibility](Resources/mentorship_eligibility.png)
+![Mentorship Eligibility](Resources/mentorship_eligbility.png)
 
 ## Summary:
 
